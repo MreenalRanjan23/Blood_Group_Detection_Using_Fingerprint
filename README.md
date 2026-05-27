@@ -15,7 +15,7 @@ Please download it separately and place it in the appropriate folder before trai
 
 ## How to Run the Project
 - Clone the Repository
-git clone https://github.com/KhushiKhanna142/Blood-Group-Detection-Using-Fingerprint.git
+git clone https://github.com/MreenalRanjan23/Blood_Group_Detection_Using_Fingerprint.git
 cd Blood-Group-Detection-Using-Fingerprint
 
 - Install Dependencies
